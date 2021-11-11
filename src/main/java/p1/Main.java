@@ -5,5 +5,8 @@ public class Main {
         System.out.println("hhh");
         System.out.println("aaa");
         System.out.println("ccc");//master
+        //m1
+        //m2
+        //m3
     }
 }
